@@ -1,9 +1,23 @@
 <?php
-// Load database configuration
-$config = include('db_config.php');
+// Load database configuration from environment variables
+$host = getenv('DB_HOST');
+$username = getenv('DB_USER');
+$password = getenv('DB_PASSWORD');
+$dbname = getenv('DB_NAME');
+$port = getenv('DB_PORT') ?: 3306; // Default to 3306 if not set
 
-// Create a connection
-$conn = new mysqli($config['host'], $config['username'], $config['password'], $config['dbname']);
+// Enable SSL options if needed
+$sslOptions = [
+    MYSQLI_OPT_SSL_VERIFY_SERVER_CERT => true,
+    MYSQLI_INIT_COMMAND => "SET SESSION sql_mode = 'STRICT_ALL_TABLES'"
+];
+
+// Create a connection with error handling
+$conn = mysqli_init();
+mysqli_options($conn, MYSQLI_OPT_SSL_VERIFY_SERVER_CERT, true);
+if (!$conn->real_connect($host, $username, $password, $dbname, $port)) {
+    die("Connection failed: " . $conn->connect_error);
+}
 
 // Function to generate a random unique ID
 function generateUniqueId($conn) {
@@ -15,12 +29,17 @@ function generateUniqueId($conn) {
         $id = rand(1, 99999999999);
 
         // Check if this ID already exists in the database
-        $result = $conn->query("SELECT COUNT(*) AS count FROM scores WHERE id = $id");
+        $stmt = $conn->prepare("SELECT COUNT(*) AS count FROM scores WHERE id = ?");
+        $stmt->bind_param("d", $id);
+        $stmt->execute();
+        $result = $stmt->get_result();
         $row = $result->fetch_assoc();
 
         if ($row['count'] == 0) {
             $unique = true;
         }
+
+        $stmt->close();
     }
 
     return $id;
@@ -47,7 +66,10 @@ $stmt = $conn->prepare("INSERT INTO scores (id, score_one, score_two, score_thre
 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 $stmt->bind_param("dddddddddddd", $uniqueId, $scoreOne, $scoreTwo, $scoreThree, $scoreFour, $scoreFive, $scoreSix, $scoreSeven, $scoreEight, $scoreNine, $scoreTen, $score);
 
-$stmt->execute();
+if (!$stmt->execute()) {
+    die("Error inserting data: " . $stmt->error);
+}
+
 $stmt->close();
 
 // Close the connection
