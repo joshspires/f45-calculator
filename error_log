@@ -1,0 +1,391 @@
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:30 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:52:34 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:53:29 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:51 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:55:56 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:56:16 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:17 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:18 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  include(/db_config.php): Failed to open stream: No such file or directory in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  include(): Failed opening '/db_config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/josh/f45calculator/add_score.php on line 3
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type bool in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 12:58:33 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:05:44 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:13 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:07:59 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:10
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:09:20 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:10
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:10:47 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:10
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 10
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:12:01 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:13:30 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:15:16 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:16:42 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:17:04 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Undefined variable $config in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Warning:  Trying to access array offset on value of type null in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:18:04 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/josh/f45calculator/add_score.php:6
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 6
+[21-Nov-2024 13:22:28 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score_one' in 'field list' in /home/josh/f45calculator/add_score.php:28
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 28
+[21-Nov-2024 13:25:39 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'score_one' in 'field list' in /home/josh/f45calculator/add_score.php:28
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 28
+[21-Nov-2024 13:57:33 Australia/Sydney] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/josh/f45calculator/add_score.php:30
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(30): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:58:09 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:58:13 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:58:24 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:58:43 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:58:51 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 11:59:08 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_one" in /home/josh/f45calculator/add_score.php on line 30
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_two" in /home/josh/f45calculator/add_score.php on line 31
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_three" in /home/josh/f45calculator/add_score.php on line 32
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_four" in /home/josh/f45calculator/add_score.php on line 33
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_five" in /home/josh/f45calculator/add_score.php on line 34
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_six" in /home/josh/f45calculator/add_score.php on line 35
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_seven" in /home/josh/f45calculator/add_score.php on line 36
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_eight" in /home/josh/f45calculator/add_score.php on line 37
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_nine" in /home/josh/f45calculator/add_score.php on line 38
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score_ten" in /home/josh/f45calculator/add_score.php on line 39
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Warning:  Undefined array key "score" in /home/josh/f45calculator/add_score.php on line 40
+[22-Nov-2024 12:00:47 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'score_one' cannot be null in /home/josh/f45calculator/add_score.php:50
+Stack trace:
+#0 /home/josh/f45calculator/add_score.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/josh/f45calculator/add_score.php on line 50
+[06-Dec-2024 20:33:26 Australia/Sydney] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/josh/f45calculator/leaderboard.php:4
+Stack trace:
+#0 /home/josh/f45calculator/leaderboard.php(4): mysqli->__construct()
+#1 /home/josh/f45calculator/index.php(135): include('/home/josh/f45c...')
+#2 {main}
+  thrown in /home/josh/f45calculator/leaderboard.php on line 4
+[22-Dec-2024 14:26:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class "Faker\Factory" not found in /home/josh/f45calculator/leaderboard.php:5
+Stack trace:
+#0 /home/josh/f45calculator/index.php(135): include()
+#1 {main}
+  thrown in /home/josh/f45calculator/leaderboard.php on line 5
