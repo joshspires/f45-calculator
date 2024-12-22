@@ -1,10 +1,21 @@
 <?php
-// Load database configuration
-$config = include('db_config.php');
-$conn = new mysqli($config['host'], $config['username'], $config['password'], $config['dbname']);
+// Load database configuration from environment variables
+$host = getenv('DB_HOST');
+$username = getenv('DB_USER');
+$password = getenv('DB_PASSWORD');
+$dbname = getenv('DB_NAME');
+$port = getenv('DB_PORT') ?: 3306; // Default to 3306 if not set
 
-// Check connection
-if ($conn->connect_error) {
+// Enable SSL options if needed
+$sslOptions = [
+    MYSQLI_OPT_SSL_VERIFY_SERVER_CERT => true,
+    MYSQLI_INIT_COMMAND => "SET SESSION sql_mode = 'STRICT_ALL_TABLES'"
+];
+
+// Create a connection with error handling
+$conn = mysqli_init();
+mysqli_options($conn, MYSQLI_OPT_SSL_VERIFY_SERVER_CERT, true);
+if (!$conn->real_connect($host, $username, $password, $dbname, $port)) {
     die("Connection failed: " . $conn->connect_error);
 }
 
@@ -35,8 +46,6 @@ if ($result->num_rows > 0) {
     echo "<thead>";
     echo "<tr><th>Name</th><th>Total Score</th></tr>";
     echo "</thead><tbody>";
-
-    $usedNames = [];
 
     while ($row = $result->fetch_assoc()) {
         // Select a random name and remove it from the array to avoid duplication
